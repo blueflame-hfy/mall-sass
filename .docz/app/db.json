@@ -1,0 +1,58 @@
+{
+  "config": {
+    "title": "Mall Sass",
+    "description": "an example sass module of component library built with React!",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "props": [
+    {
+      "key": "src/containers/App/App.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "App",
+          "methods": [],
+          "actualName": "App"
+        }
+      ]
+    },
+    {
+      "key": "src/lib/elements/Button.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Button",
+          "methods": [],
+          "actualName": "Button"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "key": "doc/Button.mdx",
+      "value": {
+        "name": "Button",
+        "route": "/",
+        "id": "12a81d2b4d8f074eb7d598f992acfda9",
+        "filepath": "doc/Button.mdx",
+        "link": "",
+        "slug": "doc-button",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "button",
+            "depth": 1,
+            "value": "Button"
+          }
+        ]
+      }
+    }
+  ]
+}
